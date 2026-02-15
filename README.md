@@ -1,1 +1,2 @@
-# BRSP_Week1
+# BRSP
+Transcriptomics & Differential Gene Expression Analysis
